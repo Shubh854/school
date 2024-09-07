@@ -6,4 +6,4 @@ bareilly
 
 
 
-somnuu
+somnuu.
